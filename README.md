@@ -28,7 +28,7 @@ Note: These don't follow an exact order, I will learn them as I see fit.
     - MVC 
 
 
-# Misc Concepts 
+## Misc Concepts 
     - Interfaces
     - Async/ Await
     - Lambda Expressions
@@ -37,7 +37,7 @@ Note: These don't follow an exact order, I will learn them as I see fit.
     - LINQ
 
 
-# Best Pratices / Business Practices 
+## Best Pratices / Business Practices 
     - Unit Testing
     - Design Patterns
     - Dependency Injection
