@@ -3,16 +3,16 @@
 Note: These don't follow an exact order, I will learn them as I see fit.
 
 ## C# basics 
-    - (if/else,while,switch, etc.) 
+    - (if/else,while,switch, etc.) COMPLETE
 
 ## C# OOP basics: 
     - Objects
     - Classes
     - Properties
-    - Fields
-    - Constructors 
-    - Instances / `new` keyword
-    - Methods
+    - Fields COMPLETE
+    - Constructors  COMPLETE
+    - Instances / `new` keyword COMPLETE
+    - Methods COMPLETE
 
 ## C# OOP advanced topics: 
     - Polymorphism
@@ -23,10 +23,8 @@ Note: These don't follow an exact order, I will learn them as I see fit.
 
 
 ## Frameworks / Front End
-    - WPF 
-    - ASP.NET
-    - MVC 
-
+    - ASP.NET CORE (contains API, Razor Pages, MVC, Blazor Server, Blazor web assmebly!)
+    - WPF
 
 ## Misc Concepts 
     - Interfaces
