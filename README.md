@@ -23,6 +23,8 @@ Note: These don't follow an exact order, I will learn them as I see fit.
 
 
 ## Frameworks / Front End
+    - Azure
+    - Basics of Docker
     - ASP.NET CORE (contains API, Razor Pages, MVC, Blazor Server, Blazor web assmebly!)
     - WPF
 
