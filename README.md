@@ -22,10 +22,12 @@ Note: These don't follow an exact order, I will learn them as I see fit.
     - Abstract classes
 
 
-## Frameworks / Front End
+## Frameworks / Web
+    - SQL Server
+    - Entity Framework
     - Azure
     - Basics of Docker
-    - ASP.NET CORE (contains API, Razor Pages, MVC, Blazor Server, Blazor web assmebly!)
+    - ASP.NET CORE (contains API, Razor Pages, MVC, Blazor Server, Blazor web assembly!)
     - WPF
 
 ## Misc Concepts 
@@ -35,7 +37,7 @@ Note: These don't follow an exact order, I will learn them as I see fit.
     - Events / Delegates
     - Constructs
     - LINQ
-
+    - Dynamics
 
 ## Best Pratices / Business Practices 
     - Unit Testing
