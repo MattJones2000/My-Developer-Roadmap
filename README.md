@@ -31,7 +31,7 @@ Note: These don't follow an exact order, I will learn them as I see fit.
     - Dynamics
 
 ## Frameworks / Web
-    - bootstrap
+    - bootstrap / JQUERY
     - SQL Server
     - Entity Framework
     - Azure
