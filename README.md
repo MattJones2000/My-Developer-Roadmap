@@ -11,7 +11,7 @@ Note: These don't follow an exact order, I will learn them as I see fit.
     - Properties
     - Fields COMPLETE
     - Constructors  COMPLETE
-    - Instances / `new` keyword COMPLETE
+    - ~~Instances / `new` keyword~~
     - Methods COMPLETE
 
 ## C# OOP advanced topics: 
