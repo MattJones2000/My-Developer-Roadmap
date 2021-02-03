@@ -3,7 +3,7 @@
 Note: These don't follow an exact order, I will learn them as I see fit.
 
 ## C# basics 
-    - (if/else,while,switch, etc.) COMPLETE
+    - <s>(if/else,while,switch, etc.)</s>
 
 ## C# OOP basics: 
     - Objects
