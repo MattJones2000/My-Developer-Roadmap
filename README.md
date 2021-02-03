@@ -30,10 +30,13 @@ Note: These don't follow an exact order, I will learn them as I see fit.
     - LINQ
     - Dynamics
 
-## Frameworks / Web
-    - bootstrap / JQUERY
+## Databases
+    - ``SSMS``
+    - Basics SQL syntax (triggers, stored procedures, tables, etc.) - COMPLETE
     - SQL Server
     - Entity Framework
+## Frameworks / Web
+    - bootstrap / JQUERY
     - Azure
     - Basics of Docker
     - ASP.NET CORE (contains API, Razor Pages, MVC, Blazor Server, Blazor web assembly!)
