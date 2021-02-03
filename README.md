@@ -3,7 +3,7 @@
 Note: These don't follow an exact order, I will learn them as I see fit.
 
 ## C# basics 
-    - <del>(if/else,while,switch, etc.)</del>
+    - ~~(if/else,while,switch, etc.)~~
 
 ## C# OOP basics: 
     - Objects
