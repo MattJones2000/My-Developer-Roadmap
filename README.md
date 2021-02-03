@@ -21,16 +21,7 @@ Note: These don't follow an exact order, I will learn them as I see fit.
     - Composition
     - Abstract classes
 
-
-## Frameworks / Web
-    - SQL Server
-    - Entity Framework
-    - Azure
-    - Basics of Docker
-    - ASP.NET CORE (contains API, Razor Pages, MVC, Blazor Server, Blazor web assembly!)
-    - WPF
-
-## Misc Concepts 
+## C# Advanced Concepts 
     - Interfaces
     - Async/ Await
     - Lambda Expressions
@@ -38,6 +29,15 @@ Note: These don't follow an exact order, I will learn them as I see fit.
     - Constructs
     - LINQ
     - Dynamics
+
+## Frameworks / Web
+    - bootstrap
+    - SQL Server
+    - Entity Framework
+    - Azure
+    - Basics of Docker
+    - ASP.NET CORE (contains API, Razor Pages, MVC, Blazor Server, Blazor web assembly!)
+    - WPF
 
 ## Best Pratices / Business Practices 
     - Unit Testing
